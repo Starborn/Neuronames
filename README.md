@@ -1,4 +1,4 @@
-README
+Neuronames
 ================
 
 Open Repo For Neuronames Datasets Imported from Braininfo via Douglas W

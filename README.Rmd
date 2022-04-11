@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Neuronames"
 output: github_document
 ---
 
